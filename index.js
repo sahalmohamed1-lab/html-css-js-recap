@@ -1,10 +1,10 @@
-const loc = "Ngong Road, Nairobi, Kenya";
-// loc = "Kiambu Road, Nairobi, Kenya";
-let age = 25;
-age = 26;
-var StudentName = "Sahal";
-StudentName = "Sahal Ahmed";
+console.log(1+1);
+console.log(2-2);
+console.log(3*3);
+console.log(4/2);
+console.log(5%2);
 
-//console.log(loc);
-//console.log(age);
-console.log(StudentName);
+let distance = 400;
+let speed = 80;
+let time = distance / speed;
+console.log(time);
